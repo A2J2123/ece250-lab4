@@ -1,0 +1,103 @@
+Project Name: ece250-w24-lab4-am2jegan
+
+
+===> Project Clone Result:
+Project Name: ece250-w24-lab4-am2jegan
+user: ece250-w24-lab4-am2jegan
+files: True
+Last Update Date: 2024-04-08T19:15:08.689-04:00
+Deadline: 2024-04-09, 11:59pm
+Penalty Percentage: 0
+Project ID: 90703
+
+===> Make Result: 
+success
+
+===> Marking Scheme - test cases
+******* TestCases: 90%
+   There are 8 test input files.
+** TestCases 1-7: 82%
+   Input files 01 through 07 test specific functionality. Each line in those files is worth 1 mark, for a total of 82 marks.
+** TestCases 8: 8%
+   Test 08 stress tests the code a huge number of times. It is worth 8 marks total, graded as follows:
+******* Memory Leak : 5%
+   +5: If the total memory leak is zero
+******* Performance : 5%
+   +5: If 'Test 8 Elapsed Time (s)' less than 15s
+   +2: If 'Test 8 Elapsed Time (s)' less than 30s
+   +1: If 'Test 8 Elapsed Time (s)' less than 55s
+
+
+===> Performance - time (CPU: AMD Ryzen 9 5900X 12-Core Processor):
+Project Name: ece250-w24-lab4-am2jegan
+Test 1 Result: success
+Test 1 Elapsed Time (s): 0.064031124
+Test 2 Result: success
+Test 2 Elapsed Time (s): 0.048010349
+Test 3 Result: success
+Test 3 Elapsed Time (s): 0.052010298
+Test 4 Result: success
+Test 4 Elapsed Time (s): 0.031731129
+Test 5 Result: success
+Test 5 Elapsed Time (s): 0.060016394
+Test 6 Result: success
+Test 6 Elapsed Time (s): 0.023428202
+Test 7 Result: success
+Test 7 Elapsed Time (s): 0.023793459
+Test 8 Result (Try1): timeout
+Test 8 Elapsed Time (s) (Try1): 60.00900674
+Test 8 Result (Try2): success
+Test 8 Elapsed Time (s) (Try2): 26.04804683
+Test 1 Result (Try3): success
+Test 1 Elapsed Time (s) (Try3): 50.30403566
+Test 8 (Min of tries): 26.04804683
+
+
+===> Test cases - Scores:
+Project Name: ece250-w24-lab4-am2jegan
+Score01: 2
+Score02: 3
+Score03: 7
+Score04: 5
+Score05: 7
+Score06: 51
+Score07: 7
+Score08: 124554
+Total Score: 124636
+Mismatched Lines: 
+Skipped Tests: 0
+
+
+===> STL Usage Results:
+Project Name: ece250-w24-lab4-am2jegan
+driver.cpp (STL Usage): 0
+graph.h (STL Usage): 0
+graph.cpp (STL Usage): 2
+Total STL Usage: 2
+
+
+===> OOP Principles Results:
+Project Name: ece250-w24-lab4-am2jegan
+Class Definition: Yes
+Access Modifiers: No Access Modifiers
+Encapsulation: No Encapsulation
+Inheritance: No Inheritance
+Polymorphism: No Polymorphism
+Constructor/Destructor: No Constructor/Destructor
+
+
+===> References Result:
+Project Name: ece250-w24-lab4-am2jegan
+References: 
+
+
+===> Valgrind Results:
+Project Name: ece250-w24-lab4-am2jegan
+test05.in Log: N/A
+test05.in Memory Leak: N/A
+test06.in Log: N/A
+test06.in Memory Leak: N/A
+test07.in Log: N/A
+test07.in Memory Leak: N/A
+Total Memory Leak: 0
+Valgrind Errors: 
